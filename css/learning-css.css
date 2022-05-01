@@ -35,7 +35,21 @@ style >
     margin-left: 40px;
 }
 
+ .red-text {
+     color: #FF0000;
+ }
+.green-text {
+    color: #00FF00;
+}
+.dodger-blue-text {
+    color: #1E90FF;
+}
+.orange-text {
+    color: #FFA500;
+}
+
 </style>
+
 <h5 class="injected-text">margin</h5>
 
 <div class="box yellow-box">
@@ -43,3 +57,13 @@ style >
 <h5 class="box blue-box">padding</h5>
 
 </div >
+
+
+
+<h1 class="red-text">I am red!</h1>
+
+<h1 class="green-text">I am green!</h1>
+
+<h1 class="dodger-blue-text">I am dodger blue!</h1>
+
+<h1 class="orange-text">I am orange!</h1>
